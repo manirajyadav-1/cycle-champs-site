@@ -1,1 +1,7 @@
-{"webBuild": 1, "minNativeBuild": 1, "url": "", "checksum": ""}
+{
+  "webBuild": 2,
+  "minNativeBuild": 1,
+  "url": "https://manirajyadav-1.github.io/cycle-champs-site/updates/bundles/web-2.zip",
+  "checksum": "056c9117313b60b1ac0ec71fa321da9b4a9eedf8203b03d2e0a2a98d7ce32044",
+  "publishedAt": "2026-10-28T14:09:52.183Z"
+}
